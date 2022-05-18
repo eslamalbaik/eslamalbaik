@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eslam Ahmed AlBaik</h1>
 <h3 align="center">A frontend developer from palestine</h3>
-![maxresdefault](https://user-images.githubusercontent.com/89574402/169025377-8ac430e0-07ca-4a02-8f4d-3b618a2cc966.jpg)
+<h3 align="center">                                        </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamd7&label=Profile%20views&color=0e75b6&style=flat" alt="eslamd7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamd7" alt="eslamd7" /></a> </p>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/89574402/169026362-e256c032-fdbe-4006-91d1-974f2fd13ae1.png" width="400"/>
+</p>
 - 🔭 I’m currently working on **shop project flutter**
 
 - 🌱 I’m currently learning **laravel framework**
