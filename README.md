@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from palestine</h3>
 <h3 align="center">                                        </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamd7&label=Profile%20views&color=0e75b6&style=flat" alt="eslamd7" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=eslamd7&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/ba828d28835ae93bf4b588c61af295d1d5335a5de94c6e08222799ec3cd6f81a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6369616e65726475726d617a26636f6c6f723d353163326435)" alt="eslamd7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamd7" alt="eslamd7" /></a> </p>
 
