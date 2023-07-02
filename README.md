@@ -19,7 +19,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamalbaik&" alt="eslamalbaik" /></p>
 
 ![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
 <h3 align="left">Connect with me:</h3>
