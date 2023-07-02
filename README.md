@@ -20,12 +20,11 @@
 <a href="https://www.youtube.com/c/ucbluudn6foytnr5nndtj7ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbluudn6foytnr5nndtj7ag" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
+## 📊 &nbsp;My Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamalbaik&show_icons=true&locale=en&layout=compact" alt="eslamalbaik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamalbaik&show_icons=true&locale=en" alt="eslamalbaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamalbaik&" alt="eslamalbaik" /></p>
 
