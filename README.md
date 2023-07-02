@@ -23,12 +23,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-- 💬 Ask me about **react , php , flutter , dart ..etc**
-
-- 📫 How to reach me **eslamahmad2000t@gmail.com**
-
-- ⚡ Fun fact **I think my funy**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eslamalbaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eslamalbaik" height="30" width="40" /></a>
