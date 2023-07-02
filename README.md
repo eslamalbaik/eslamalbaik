@@ -23,7 +23,6 @@
 
   I am an addicted programmer having engaged with my PC in 4+ years. With almost four years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamD7&label=Profile%20views&color=0e75b6&style=flat" alt="eslamD7" /> </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
   
