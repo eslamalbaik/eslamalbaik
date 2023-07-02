@@ -19,18 +19,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
   # Hi, there! :wave::smiley:
 
   I am an addicted programmer having engaged with my PC in 4+ years. With almost four years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
