@@ -3,7 +3,7 @@
 
   # Hi, there! :wave::smiley:
 
-  I am an addicted programmer having engaged with my PC in 10+ years. With almost ten years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
+  I am an addicted programmer having engaged with my PC in 4+ years. With almost four years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamD7&label=Profile%20views&color=0e75b6&style=flat" alt="eslamD7" /> </p>
 
@@ -11,16 +11,17 @@
   
   ## 🛠️ &nbsp;My Tech Stacks
 
-
-- 🔭 I’m currently working on **shop project flutter**
-
-- 🌱 I’m currently learning **laravel framework**
-
-- 👯 I’m looking to collaborate on [Mosques-Guide-FlutterApp](https://github.com/eslamalbaik/Mosques-Guide-FlutterApp)
-
-- 👨‍💻 All of my projects are available at [https://vf3q0bxcysdhbywwyecatw.on.drv.tw/Eslam1212/](https://vf3q0bxcysdhbywwyecatw.on.drv.tw/Eslam1212/)
-
-- 📝 I regularly write articles on [https://t.me/programmer_think1](https://t.me/programmer_think1)
+ ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;
+  ![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=Laravel)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 - 💬 Ask me about **react , php , flutter , dart ..etc**
 
