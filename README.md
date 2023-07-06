@@ -20,10 +20,6 @@
 
 ###
 
-
-
-###
-
 # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  About me 
 
   I am an addicted programmer having engaged with my PC in 4+ years. With almost four years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
