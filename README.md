@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"  />
+  <img height="250" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"  />
 </div>
 
 ###
